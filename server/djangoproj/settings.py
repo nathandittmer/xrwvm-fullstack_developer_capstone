@@ -32,7 +32,7 @@ ALLOWED_HOSTS=['localhost','https://nathandittme-8000.theianext-0-labs-prod-misc
 #CSRF_TRUSTED_ORIGINS=['https://nathandittme-8000.theianext-0-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/']
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://nathandittme-8000.theianext-0-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai'
+    'https://nathandittme-8000.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai'
 ]
 
 REST_FRAMEWORK = {
